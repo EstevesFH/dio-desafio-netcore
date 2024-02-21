@@ -1,0 +1,13 @@
+c:\workspace\dio-desafio-netcore\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.exe
+c:\workspace\dio-desafio-netcore\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.deps.json
+c:\workspace\dio-desafio-netcore\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.runtimeconfig.json
+c:\workspace\dio-desafio-netcore\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.runtimeconfig.dev.json
+c:\workspace\dio-desafio-netcore\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.dll
+c:\workspace\dio-desafio-netcore\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.pdb
+c:\workspace\dio-desafio-netcore\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.csprojAssemblyReference.cache
+c:\workspace\dio-desafio-netcore\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.AssemblyInfoInputs.cache
+c:\workspace\dio-desafio-netcore\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.AssemblyInfo.cs
+c:\workspace\dio-desafio-netcore\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.csproj.CoreCompileInputs.cache
+c:\workspace\dio-desafio-netcore\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.dll
+c:\workspace\dio-desafio-netcore\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.pdb
+c:\workspace\dio-desafio-netcore\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.genruntimeconfig.cache
